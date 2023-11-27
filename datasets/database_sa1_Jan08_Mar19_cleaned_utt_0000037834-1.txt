@@ -1,0 +1,1 @@
+khác biệt với hệ thống ngân hàng truyền thống là không có máy chủ nào có thể bị tấn công đó là bởi vì tất cả các máy tính trong một lóc trên giữ một bản ghi nhớ của mỗi giao dịch giúp tạo ra một hệ thống phân cấp khổng lồ
